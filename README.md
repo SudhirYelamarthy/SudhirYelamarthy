@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋! Currently working on learning more code. Learning Python and Java. Looking for help with getting started. 
 
 <!--
 **SudhirYelamarthy/SudhirYelamarthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
